@@ -13,4 +13,6 @@ Gael kuna run command kwa terminal use;
 
 1. gcc main.c -o main
 2. alafu ikirun tumie ./main
-3. but 
+
+
+Hopeefullly ifikie Gael  lil sis Gael ukipata shida niambie alryt
