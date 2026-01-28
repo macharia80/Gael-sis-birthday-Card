@@ -2,6 +2,8 @@
 first of all congrats and hope u will leave a better life than mine and Gael as well
 Gael najua unajua kuclone and other stuff etc
 before u run terminal install the gcc compiler ama hata vscode terminal ya ubuntu:
+This is the process
+1.open ubuntu terminal after ushaclone my work alryt
 bash is
 sudo apt update
 alafu sudo apt upgrade
